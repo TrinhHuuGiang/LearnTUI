@@ -9,7 +9,7 @@
 /********************************************************************************
 * Code
 ********************************************************************************/
-int main(int argc, char** argv)
+int main(int argc,const char** argv)
 {
     char temp;
     //Open a new interface on the terminal
