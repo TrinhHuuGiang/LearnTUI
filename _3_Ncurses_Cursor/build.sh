@@ -1,7 +1,6 @@
 #!/bin/bash
 
-#buld to "main"
-gcc -o main main.c -lncurses
+#create folder build while not exist
+mkdir -p build
 
-#run
-./main
+gcc -o ./build/main main.c -lncurses
