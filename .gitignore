@@ -1,0 +1,5 @@
+# Ignore execute file
+*.exe
+*.out
+*.bin
+*

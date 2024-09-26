@@ -4,14 +4,14 @@ int main(int argc, char** argv)
 {
     if (argc == 1)
     {
-        printf("Argument [ 0] - [%s]\n", argv[0]);  // Thêm dòng mới
-        printf("No additional arguments provided (argc < 2)\n");  // Thêm dòng thông báo rõ ràng hơn
+        printf("Argument [ 0] - [%s]\n", argv[0]);  // Print default input
+        printf("No additional arguments provided (argc < 2)\n");  // 
         return -1;
     }
 
     for (int i = 0; i < argc; i++)
     {
-        printf("Argument [%2d] - [%s]\n", i, argv[i]);  // Thêm dòng mới sau khi in
+        printf("Argument [%2d] - [%s]\n", i, argv[i]);  // Print input argument
     }
 
     return 0;

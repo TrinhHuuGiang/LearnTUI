@@ -1,3 +1,3 @@
 # LearnTUI
-Learn TUI by Ncurses library
-OS available : Linux
+Learn TUI by Ncurses library.
+OS available : Linux.
