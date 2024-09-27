@@ -1,4 +1,4 @@
-// About: initscr, endwin, refresh, getch, printw
+// About: initscr, endwin, refresh(more in _4_Ncurses_Window), getch, printw
 /********************************************************************************
 * Definitions
 ********************************************************************************/
